@@ -1,13 +1,17 @@
-# RoadMOPD
+<h1 align="center">RoadMOPD</h1>
 
-**Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation**
+<p align="center">
+  <strong>Beyond Domain-Routed Supervision</strong><br>
+  Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation
+</p>
 
-[Paper on arXiv](https://arxiv.org/abs/2610.13521) | [Hugging Face Papers](https://huggingface.co/papers/2610.13521)
+<p align="center">
+  <a href="https://arxiv.org/abs/2610.13521"><img src="https://img.shields.io/badge/arXiv-2610.13521-B31B1B?style=flat-square" alt="arXiv paper"></a>
+  <a href="https://huggingface.co/papers/2610.13521"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-FFD21E?style=flat-square" alt="Hugging Face Papers"></a>
+</p>
 
-## Code release
+## Code availability
 
-*Status updated: October 29, 2026.*
+The code and implementation details are currently undergoing internal company approval for open-source release.
 
-The source code and implementation details are currently undergoing internal company review and approval. We expect to release them within the next **1–2 months**, subject to completion of the approval process.
-
-Updates will be posted in this repository. Thank you for your interest and patience!
+We expect to release them within **1–2 months**, subject to completion of the approval process.
