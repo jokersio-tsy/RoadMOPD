@@ -1,8 +1,8 @@
 <h1 align="center">RoadMOPD</h1>
 
 <p align="center">
-  <strong>Beyond Domain-Routed Supervision</strong><br>
-  Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation
+  <strong>Beyond Domain-Routed Supervision:<br>
+  Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation</strong>
 </p>
 
 <p align="center">
